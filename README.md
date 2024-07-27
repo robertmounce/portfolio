@@ -1,35 +1,47 @@
 # Skills Section
+## Coding Languages
 ### Python
-- Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib.
+Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib.
+### SQL 
+Intermediate understanding in SQL 
+### Excel 
+Intermediate skills in data analysis, including the use of functions, pivot tables, and data visualization.
 
-### SQL
-- Proficient in writing complex queries, data manipulation, and database management.
+## Soft Skills
+Self-Starter & Proactive: Demonstrated initiative in learning bike repairs, expanding operations from one to four locations, and leading new product rollouts.
 
-### Excel
-- Skilled in data analysis, creating dashboards, and using advanced functions for data processing.
-### Tableu 
-- Using Data to display my projects in the different dashbaords that I will be using on the job
+Communication: Experience in student government and advocacy, including securing a state grant for a campus food pantry, promoting student-friendly legislation, planning events, and engaging in state-level advocacy. Excellent interpersonal skills developed through roles as a bartender and server, facilitating clear communication with guests and managers.
 
 # Education
-B.A. Economics | California State University, Long Beach
-    description: Focused on economic theory, data analysis, and quantitative methods
+B.A. Economics | California State University, Long Beach (Expected Graduation Date: May 2025)
+
+## Certificates
+Google Data Analytics Certificate | Coursera
+IBM Data Science Certificate | Coursera 
+SQL for Data Science | UC Davis
 
 # Experience Section
 ## WheelFun Rentals North Orange County Locations
-### Product Manager
+### Product Manager (2019-2021)
 - Developed a [reporting system](https://www.notion.so/robertmounce/Wheel-fun-Rentals-d07ed66777df445ca0c0b588d4f7cdb2) that reduced product downtime by 83% over a year.
 - Created dashboards for corporate ordering using relational databases, cutting ordering time by over 50%.
-      
+
+## Cypress College Associated Students 
+- Developed many skills including public speaking, reporting on student advocacy and projects such as food insecurities
+- Doubling our student life by club development increasing *more than double* in size after taking I.C.C. Chair in a few months making creating a club much easier and faster to get started as well as making club grants accessible to them with a open updating system for club treasureres to see their status in grant funding.
+- Taking part in the legislation process in passing a resolution to implement EW's (emergency withdrawls) coming from students in need to General Assembly in 2018 where it eventually passed in Sacramento.
+
+
+
 # Projects Section 
 ## [WFR Cleaning and Analysis Notebook](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis_)
-- Using Python in a Kaggle Notebook, I cleaned and analyzed data as a data analysis that I collected and maintained working for Wheel Fun Rentals being the only employee to use a online database in the company to keep track of orders and repairs.
--  Using libraries such as pandas, matplotlib and numpy I was able to find insights into the parks attendence for our most profitable locations to asses the correlation between the attendence and the moderatively negative correlation with the attendence and the different types of repairs that needed to be made to diagnosis the repeated probelms that needed to be made. 
+Used Python to clean and analyze data collected at WheelFun Rentals. Applied Pandas, Matplotlib, and NumPy to discover insights into park attendance and its correlation with the types of repairs needed, identifying recurring issues and cleaning the data that was presented in dashboards as well on Notion.
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
-- Analyzed personal Spotify data to explore listening habits, including peak listening times and top songs. The project provided insights into personal music preferences and trends.
+Analyzed personal Spotify data to explore listening habits, peak listening times, and top songs, providing insights into personal music preferences and trends.
 
 ## Qatar Economic Development Project
-- A comprehensive analysis of Qatar's economic transition from reliance on oil and natural gas exports to a diversified economy focusing on tourism and foreign investments. The project also examined the socio-economic impacts, including controversies around the FIFA World Cup and investments in international sports.
+-A team comprehensive analysis of Qatar's economic shift from oil and natural gas dependence to a diversified economy, focusing on tourism and foreign investments, and examining socio-economic impacts, including controversies surrounding the FIFA World Cup
   
 # Contact Section
 contact:
