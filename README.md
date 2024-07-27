@@ -1,46 +1,34 @@
- Skills Section
-skills:
-  - name: "Python"
-    description: "Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib."
-  - name: "SQL"
-    description: "Proficient in writing complex queries, data manipulation, and database management."
-  - name: "Excel"
-    description: "Skilled in data analysis, creating dashboards, and using advanced functions for data processing."
+# Skills Section
+### Python
+- Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib.
+### SQL
+- Proficient in writing complex queries, data manipulation, and database management.
+### Excel
+- Skilled in data analysis, creating dashboards, and using advanced functions for data processing.
 
-# Education Section
-education:
-  - degree: "B.A. Economics"
-    institution: "California State University, Long Beach"
-    description: "Focused on economic theory, data analysis, and quantitative methods."
+# Education
+B.A. Economics | California State University, Long Beach
+    description: Focused on economic theory, data analysis, and quantitative methods
 
 # Experience Section
-  - role: "Product Manager"
-    description: |
-      - Developed a reporting system that reduced product downtime by 83% over a year.
+## WheelFun Rentals North Orange County Locations
+### Product Manager
+      - Developed a [reporting system](https://www.notion.so/robertmounce/Wheel-fun-Rentals-d07ed66777df445ca0c0b588d4f7cdb2) that reduced product downtime by 83% over a year.
       - Created dashboards for corporate ordering using relational databases, cutting ordering time by over 50%.
-
+      
 # Projects Section
-projects:
-  - title: "Product Management System"
-    description: |
-      Designed a system that integrated QR code reporting with Notion's API using Chillipepper IO, significantly reducing ordering and repair times by over 80% and 50%, respectively. The system utilized a relational database to streamline communication and collaboration between repair reports and parts ordering.
-    url: "/projects/product-management-system/"
-    image: "/assets/images/product-management-system.jpg"
+## [WFR Cleaning and Analysis Notebook](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis_)
+- Using Python in a Kaggle Notebook, I cleaned and analyzed data as a data analysis that I collected and maintained working for Wheel Fun Rentals being the only employee to use a online database in the company to keep track of orders and repairs.
+- Using libraries such as pandas, matplotlib and numpy I was able to find insights into the parks attendence for our most profitable locations to asses the correlation between the attendence and the moderatively negative correlation with the attendence and the different types of repairs that needed to be made to diagnosis the repeated probelms that needed to be made. 
 
-  - title: "Personal Spotify Wrap"
-    description: |
+## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
       Analyzed personal Spotify data to explore listening habits, including peak listening times and top songs. The project provided insights into personal music preferences and trends.
-    url: "/projects/personal-spotify-wrap/"
-    image: "/assets/images/personal-spotify-wrap.jpg"
 
-  - title: "Qatar Economic Development Project"
-    description: |
+## Qatar Economic Development Project
       A comprehensive analysis of Qatar's economic transition from reliance on oil and natural gas exports to a diversified economy focusing on tourism and foreign investments. The project also examined the socio-economic impacts, including controversies around the FIFA World Cup and investments in international sports.
-    url: "/projects/qatar-economic-development/"
-    image: "/assets/images/qatar-economic-development.jpg"
-
+  
 # Contact Section
 contact:
-  email: "your-email@example.com"
-  linkedin: "https://www.linkedin.com/in/your-linkedin/"
-  github: "https://github.com/your-github/"
+  email: mouncerobert@outlook.com"
+  linkedin: https://www.linkedin.com/in/mouncerobert/
+  github: ["https://github.com/your-github/"](https://github.com/robertmounce)
