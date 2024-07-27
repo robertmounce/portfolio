@@ -1,6 +1,6 @@
 # Skills Section
 ## Coding Languages
-### Python
+### [Python](https://github.com/robertmounce/Data_Analytics_Portfolio)
 Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib.
 ### SQL 
 Intermediate understanding in SQL 
@@ -48,3 +48,4 @@ contact:
   email: mouncerobert@outlook.com
   [linkedin](https://www.linkedin.com/in/mouncerobert/)
   [github](https://github.com/robertmounce/Data_Analytics_Portfolio)
+  [Kaggle](https://www.kaggle.com/robertmounce)
