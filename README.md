@@ -1,26 +1,27 @@
-# Skills Section
-## Coding Languages
-### [Python](https://github.com/robertmounce/Data_Analytics_Portfolio)
-Experienced in data analysis, visualization, and automation using Python libraries like Pandas, NumPy, and Matplotlib.
-### SQL 
-Intermediate understanding in SQL 
-### Excel 
-Intermediate skills in data analysis, including the use of functions, pivot tables, and data visualization.
+# Skills Portfolio
+## [Python](https://github.com/robertmounce/Python_Portfolio)
+### Project: [Wheelfun Rentals](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis)
+  - Cleaning and analyzing real data using a Kaggle Juptyr Notebook, as well as performing Data Visualization and Statitical Analysis.
 
-## Soft Skills
-Self-Starter & Proactive: Demonstrated initiative in learning bike repairs, expanding operations from one to four locations, and leading new product rollouts.
+### Project: [Spotify Wrap](https://github.com/robertmounce/Python_Portfolio/blob/main/my-own-spotify-wrap.ipynb)
+- Combining datasets and usign data visualization to explore my music data including favorite songs and listening times. 
 
-Communication: Experience in student government and advocacy, including securing a state grant for a campus food pantry, promoting student-friendly legislation, planning events, and engaging in state-level advocacy. Excellent interpersonal skills developed through roles as a bartender and server, facilitating clear communication with guests and managers.
 
-# Education
-B.A. Economics | California State University, Long Beach (Expected Graduation Date: May 2025)
+## [Power BI](https://github.com/robertmounce/PowerBI) 
+### Project: [Wheel Fun Rentals Dashboard](https://app.powerbi.com/links/BfP5xhbQR7?ctid=d175679b-acd3-4644-be82-af041982977a&pbi_source=linkShare)
+
+## [SQL](https://github.com/robertmounce/SQL_Portfolio)
+
 
 ## Certificates
 Google Data Analytics Certificate | Coursera
 IBM Data Science Certificate | Coursera 
 SQL for Data Science | UC Davis
 
-# Experience Section
+## Education
+B.A. Economics | California State University, Long Beach (Expected Grad. Date: May 2025)
+
+# Professional Experience 
 ## WheelFun Rentals North Orange County Locations
 ### Product Manager (2019-2021)
 - Developed a [reporting system](https://www.notion.so/robertmounce/Wheel-fun-Rentals-d07ed66777df445ca0c0b588d4f7cdb2) that reduced product downtime by 83% over a year.
@@ -34,18 +35,18 @@ SQL for Data Science | UC Davis
 
 
 # Projects Section 
-## [WFR Cleaning and Analysis Notebook](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis_)
-Used Python to clean and analyze data collected at WheelFun Rentals. Applied Pandas, Matplotlib, and NumPy to discover insights into park attendance and its correlation with the types of repairs needed, identifying recurring issues and cleaning the data that was presented in dashboards as well on Notion.
+## Wheel Fun Rentals 
+Using Python, I clean, visualize data in a Juptyr Notebook. Creating a Power BI Dashboard and presentation of the observed data that I collected as a mechanic. I create a predictive model with two parks attendence and bike repair reports, to predict the amount of reports. 
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
 Analyzed personal Spotify data to explore listening habits, peak listening times, and top songs, providing insights into personal music preferences and trends.
 
 ## Qatar Economic Development Project
--A team comprehensive analysis of Qatar's economic shift from oil and natural gas dependence to a diversified economy, focusing on tourism and foreign investments, and examining socio-economic impacts, including controversies surrounding the FIFA World Cup
+A team comprehensive analysis of Qatar's economic shift from oil and natural gas dependence to a diversified economy, focusing on tourism and foreign investments, and examining socio-economic impacts, including controversies surrounding the FIFA World Cup
   
 # Contact Section
 contact:
   email: mouncerobert@outlook.com
   [linkedin](https://www.linkedin.com/in/mouncerobert/)
-  [github](https://github.com/robertmounce/Data_Analytics_Portfolio)
+  [github](https://github.com/robertmounce)
   [Kaggle](https://www.kaggle.com/robertmounce)
