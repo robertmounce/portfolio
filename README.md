@@ -6,8 +6,8 @@
 ## [SQL](https://github.com/robertmounce/SQL_Portfolio)
 
 ## Certificates
-Google Data Analytics Certificate | Coursera
-SQL for Data Science | UC Davis
+### Google Data Analytics Certificate | Coursera
+### SQL for Data Science | UC Davis
 
 ## Education
 B.A. Economics | California State University, Long Beach (Expected Grad. Date: May 2025)
