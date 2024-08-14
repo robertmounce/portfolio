@@ -8,6 +8,8 @@ Explore my Python projects, where I focus on data cleaning, analysis, and visual
 Check out my Power BI dashboards, which showcase my ability to create interactive and insightful visualizations from raw data
 ### [SQL](https://github.com/robertmounce/SQL_Portfolio)
 View my SQL portfolio, featuring complex queries and data manipulation tasks, including joins, subqueries, and data aggregation.
+### [Excel](https://github.com/robertmounce/Excel_Portolfio)
+This portfolio highlights various Excel projects I've worked on, showcasing my ability to handle complex data sets, create insightful visualizations, automate repetitive tasks, and build robust financial models. Each project includes a detailed description, the skills demonstrated, and the outcomes achieved.
 
 ## Certificates
 ### - Google Data Analytics Certificate | Coursera
