@@ -19,12 +19,15 @@ B.A. Economics | California State University, Long Beach
 
 # Projects Section 
 ## [Wheel Fun Rentals](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system)
-In this project, I utilized Python to clean and visualize data in a Jupyter Notebook. I created a Power BI dashboard and a presentation based on data I collected as a mechanic. Additionally, I developed a predictive model using park attendance and bike repair reports to forecast the volume of future maintenance reports. 
+- [Data Collection and Analysis](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system): Collected and analyzed data on bike repairs and park attendance to identify inefficiencies in maintenance operations.
+- [Data Processing](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis): Applied Python in Jupyter Notebook in Kaggle for data cleaning and visualization, revealing key patterns and operational challenges.
+- Dashboard Development: Developed a Power BI dashboard for monitoring maintenance metrics, enhancing visibility for stakeholders.
+- [Predictive Modeling](https://www.kaggle.com/code/robertmounce/wfr-predictive-maintenance): Built a predictive model to forecast maintenance needs using historical data.
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
-Analyzed my personal Spotify data to uncover listening habits, peak listening times, and top songs. This project provided insights into personal music preferences and trends over time.
+- Analyzed my personal Spotify data to uncover listening habits, peak listening times, and top songs. This project provided insights into personal music preferences and trends over time.
 ## [Qatar Economic Development Project](https://www.kaggle.com/code/robertmounce/qatar-economics)
-Conducted a comprehensive team analysis of Qatar's economic transition from oil and natural gas reliance to a diversified economy. The project focused on tourism and foreign investments and examined the socio-economic impacts, including the controversies surrounding the FIFA World Cup.
+- Conducted a comprehensive team analysis of Qatar's economic transition from oil and natural gas reliance to a diversified economy. The project focused on tourism and foreign investments and examined the socio-economic impacts, including the controversies surrounding the FIFA World Cup.
 
 # Professional Experience 
 ## WheelFun Rentals North Orange County Locations
