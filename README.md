@@ -18,7 +18,7 @@ B.A. Economics | California State University, Long Beach
 (Expected Grad. Date: May 2025)
 
 # Projects Section 
-## Wheel Fun Rentals 
+## [Wheel Fun Rentals](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system)
 In this project, I utilized Python to clean and visualize data in a Jupyter Notebook. I created a Power BI dashboard and a presentation based on data I collected as a mechanic. Additionally, I developed a predictive model using park attendance and bike repair reports to forecast the volume of future maintenance reports. 
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
