@@ -28,6 +28,7 @@ B.A. Economics | California State University, Long Beach
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
 - Analyzed my personal Spotify data to uncover listening habits, peak listening times, and top songs. This project provided insights into personal music preferences and trends over time.
+
 ## [Qatar Economic Development Project](https://www.kaggle.com/code/robertmounce/qatar-economics)
 - Conducted a comprehensive team analysis of Qatar's economic transition from oil and natural gas reliance to a diversified economy. The project focused on tourism and foreign investments and examined the socio-economic impacts, including the controversies surrounding the FIFA World Cup.
 
