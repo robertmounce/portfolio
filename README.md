@@ -23,7 +23,7 @@ B.A. Economics | California State University, Long Beach
 ## [Wheel Fun Rentals](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system)
 - [Data Collection and Analysis](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system): Collected and analyzed data on bike repairs and park attendance to identify inefficiencies in maintenance operations.
 - [Data Processing](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis): Applied Python in Jupyter Notebook in Kaggle for data cleaning and visualization, revealing key patterns and operational challenges.
-- Dashboard Development: Developed a Power BI dashboard for monitoring maintenance metrics, enhancing visibility for stakeholders.
+- [Dashboard Development](https://app.powerbi.com/view?r=eyJrIjoiNDNkODdmZjUtN2ZiZC00NTdkLThhNTMtODg0MTVjNzg0MTBlIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9): Developed a Power BI dashboard for monitoring maintenance metrics, enhancing visibility for stakeholders.
 - [Predictive Modeling](https://www.kaggle.com/code/robertmounce/wfr-predictive-maintenance): Built a predictive model to forecast maintenance needs using historical data.
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
