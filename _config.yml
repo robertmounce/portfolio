@@ -2,3 +2,22 @@ title: "Robert Mounce Portfolio"
 description: "A showcase of my data analytics projects and skills"
 logo: /IMG_0070.jpeg
 theme: jekyll-theme-minimal
+title: "Robert Mounce Portfolio
+
+# Customization options
+show_downloads: true
+
+# Links to social profiles
+author:
+  name: "Robert Mounce"
+  email: "your-email@example.com" # Optional, if you want to include
+  linkedin: "https://linkedin.com/in/your-profile"
+  github: "https://github.com/your-username"
+
+# Google Analytics (if desired)
+google_analytics: "UA-XXXXXXXXX-X" # Replace with your tracking ID
+
+# Footer configuration
+footer:
+  text: "© 2024 Robert Mounce. All rights reserved."
+  show_social_links: true
