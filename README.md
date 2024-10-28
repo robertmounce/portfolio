@@ -13,12 +13,14 @@ B.A. Economics | California State University, Long Beach                        
 ## [Wheel Fun Rentals](https://mouncerobert.wixsite.com/robmounce/wheelfun-rentals-data-system)
 ### Presentation Power Point: [WFR_Insights_Powerpoint](https://csulb-my.sharepoint.com/:p:/g/personal/robert_mounce01_student_csulb_edu/EXkFWLKfuAJOgx7BZte7lRUBCK2rHrRtxZpHZScmwQKRNA?e=g71fgG)
 ### Data Cleaning, Exploratorary Analysis : [Kaggle Python](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis)
-### Utilized Dashboard: [Notion Dashboard](https://robertmounce.notion.site/Wheel-fun-Rentals-d07ed66777df445ca0c0b588d4f7cdb2)
-### Dashboard : [Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDNkODdmZjUtN2ZiZC00NTdkLThhNTMtODg0MTVjNzg0MTBlIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9)
+### Utilized Dashboard:
+### Dashboards :
+- [Notion Database](https://robertmounce.notion.site/Wheel-fun-Rentals-d07ed66777df445ca0c0b588d4f7cdb2)
+- [Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDNkODdmZjUtN2ZiZC00NTdkLThhNTMtODg0MTVjNzg0MTBlIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9)
 
 
 ## [Personal Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spotify-wrap)
-- Analyzed my personal Spotify data to uncover listening habits, peak listening times, and top songs. This project provided insights into personal music preferences and trends over time.
+
 
 ## [Qatar Economic Development Project](https://www.kaggle.com/code/robertmounce/qatar-economics)
 - Conducted a comprehensive team analysis of Qatar's economic transition from oil and natural gas reliance to a diversified economy. The project focused on tourism and foreign investments and examined the socio-economic impacts, including the controversies surrounding the FIFA World Cup.
