@@ -1,17 +1,17 @@
-# Site settings
 title: "Robert Mounce | Data Analyst"
 description: "Economics graduate (CSULB) with Python, R, SQL, Power BI, and Excel projects in operations, economics, and personal data analysis."
 logo: /IMG_0070.jpeg
 lang: en_US
 
-# GitHub Pages project-site URLs (keeps CSS, images, and links working)
 url: "https://robertmounce.github.io"
 baseurl: "/portfolio"
 
-theme: jekyll-theme-minimal
-show_downloads: false   # hides the Download .zip / .tar.gz buttons; set to true to restore
+# No remote theme: the design now lives in _layouts/default.html and assets/css/main.css
 
-# Used by index.md via {{ site.author.* }}
+# Add your resume PDF to the repo, then set this (e.g. /Robert_Mounce_Resume.pdf).
+# The Resume button on the page appears only when this is filled in.
+resume_url: ""
+
 author:
   name: "Robert Mounce"
   email: "mouncerobert@outlook.com"
@@ -21,9 +21,3 @@ author:
 
 plugins:
   - jekyll-seo-tag
-
-# Notes:
-# - The original file had two "title" keys and a missing closing quote; that is a YAML error.
-# - jekyll-theme-minimal ignores "footer" and Google Analytics settings, so they were removed.
-#   (Old "UA-" Analytics IDs also no longer work; GA4 uses "G-XXXXXXX".)
-# - Placeholder email/LinkedIn/GitHub values were replaced with your real links from the live site.
